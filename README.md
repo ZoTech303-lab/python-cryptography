@@ -11,6 +11,8 @@
 ### karna script ini di lindungi oleh password yang akan anda tambahkan agar bisa di dekripsi dan hanya anda yang tau
 
 ### Persyaratan script ini anda harus ada
+<p>=======</p>
+<br>
 <p>python</p>
 <br>
 <p>python-pip</p>
