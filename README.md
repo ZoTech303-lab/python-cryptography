@@ -39,9 +39,7 @@
 <p><b>Password: 123</b></p>
 <br>
 <p>lalu masukan pesan seterah yang anda inginkan</p>
-<br>
 <p>contoh : </p>
-<br>
 <p><b>Masukan Pesan : hai nama saya rian</b></p>
 <br>
 <p>tunggu sebentar lalu hasilnya : </p>
