@@ -35,16 +35,15 @@
 <p>lalu masukan password yang anda ingin kan</p>
 <br>
 <p>contoh : </p>
-<br>
 <p><b>Password: 123</b></p>
 <br>
 <p>lalu masukan pesan seterah yang anda inginkan</p>
+<br>
 <p>contoh : </p>
 <p><b>Masukan Pesan : hai nama saya rian</b></p>
 <br>
 <p>tunggu sebentar lalu hasilnya : </p>
-<br>
-<p><b>c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
+<p><b>Pesan telah ter enkripsi > c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
 <br>
 ### Pesan telah ter enkripsi
 
@@ -55,13 +54,16 @@
 <p>lalu masukan password tadi</p>
 <br>
 <p>contoh : </p>
-<br>
 <p><b>Password: 123</b></p>
 <br>
 <p><b>lalu masukan pesan yang telah terenkripsi tadi</b></p>
 <br>
 <p>contoh : </p>
-<br>
 <p><b>Masukan pesan : c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
 <br>
-<p>lalu tunggu sebentar dan pesan tersebut akan terenkripsi</p>
+<p>lalu tungguu dan pesan itu akan terdekripsi</p>
+<br>
+<p>contoh : </p>
+<p><b>isi pesan tersembunyi > hai nama saya rian</b></p>
+
+## Thanks for using my script :D
