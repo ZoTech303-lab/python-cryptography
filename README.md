@@ -54,7 +54,7 @@
 <br>
 <p>tunggu sebentar lalu hasilnya : </p>
 
-    Pesan telah ter enkripsi > c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
+    Pesan telah ter enkripsi > c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=
 <br>
 ### Pesan telah ter enkripsi
 
@@ -75,7 +75,7 @@
 <br>
 <p>contoh : </p>
 
-    Masukan pesan : c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
+    Masukan pesan : c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=
 <br>
 <p>lalu tungguu dan pesan itu akan terdekripsi</p>
 <br>
