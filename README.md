@@ -19,51 +19,68 @@
 <p>3.simple-crypt</p>
 
 ### Cara menginstall nya
-<p>Untuk menginstall python : apt install python</p>
+<p>Untuk menginstall python : </p>
+    
+    apt install python
 <br>
-<p>Untuk menginstall python-pip : apt install python-pip</p>
+<p>Untuk menginstall python-pip : </p>
+  
+    apt install python-pip
 <br>
-<p>Untuk menginstall simple-crypt : pip install simple-crypt</p>
+<p>Untuk menginstall simple-crypt : </p>
+    
+    pip install simple-crypt
 <br>
 
 ## Cara menggunakan
 
 ## Enkripsi pesan
 <br>
-<p>python encrypt.py</p>
+<p>Jalankan script python</p>
+    
+    python encrypt.py
 <br>
 <p>lalu masukan password yang anda ingin kan</p>
 <br>
 <p>contoh : </p>
-<p><b>Password: 123</b></p>
+    
+    Password: 123
 <br>
 <p>lalu masukan pesan seterah yang anda inginkan</p>
 <br>
 <p>contoh : </p>
-<p><b>Masukan Pesan : hai nama saya rian</b></p>
+
+    Masukan Pesan : hai nama saya rian
 <br>
 <p>tunggu sebentar lalu hasilnya : </p>
-<p><b>Pesan telah ter enkripsi > c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
+
+    Pesan telah ter enkripsi > c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
 <br>
 ### Pesan telah ter enkripsi
 
 ## Dekripsi pesan
 <br>
-<p>python decrypt.py</p>
+<p>Jalan kan script python</p>
+    
+    python decrypt.py
 <br>
-<p>lalu masukan password tadi</p>
+
+    lalu masukan password tadi
 <br>
 <p>contoh : </p>
-<p><b>Password: 123</b></p>
+    
+    Password: 123
 <br>
 <p><b>lalu masukan pesan yang telah terenkripsi tadi</b></p>
 <br>
 <p>contoh : </p>
-<p><b>Masukan pesan : c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
+
+    Masukan pesan : c2MAAqKizKApAA9IIzq0wPbz8e3dLSbjBYAqb0ixAR+FiE1at7EXK4rflWolvr3ovNUZ0/sgM/RBQXEkKQfK6F8H9CbLPIDPGNjK00yx/FxWJMwT0Pw=</b></p>
 <br>
 <p>lalu tungguu dan pesan itu akan terdekripsi</p>
 <br>
 <p>contoh : </p>
-<p><b>isi pesan tersembunyi > hai nama saya rian</b></p>
+    
+    isi pesan tersembunyi > hai nama saya rian
 
 ## Thanks for using my script :D
