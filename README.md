@@ -7,8 +7,8 @@
 <b>my email : rianprastio303@gmail.com<b>
 <br>
 
-# Script ini bertujuan untuk mengenkripsi pesan agar tidak terlihat atau di dekripsi oleh orang ketiga
-# karna script ini di lindungi oleh password yang akan anda tambahkan agar bisa di dekripsi dan hanya anda yang tau
+### Script ini bertujuan untuk mengenkripsi pesan agar tidak terlihat atau di dekripsi oleh orang ketiga
+## karna script ini di lindungi oleh password yang akan anda tambahkan agar bisa di dekripsi dan hanya anda yang tau
 
 ### Persyaratan script ini anda harus ada
 
