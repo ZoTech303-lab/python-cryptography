@@ -33,7 +33,6 @@
 
 </h1> Cara menggunakan Script</h1>
 <hr>
-<br><br>
 
 <h2> Enkripsi pesan </h2>
 <br>
