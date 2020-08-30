@@ -31,9 +31,11 @@
     pip install simple-crypt
 <br>
 
-## Cara menggunakan Script
-<br>
-## Enkripsi pesan
+</h1> Cara menggunakan Script</h1>
+<hr>
+<br><br>
+
+<h2> Enkripsi pesan </h2>
 <br>
 <p>Jalankan script python</p>
     
